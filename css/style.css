@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/fundo.jpg);
+    background-image: url(../img_trilha/fundo.jpg);
     height: 1200px;
     width: 100%;
     background-repeat: no-repeat;
@@ -84,7 +84,7 @@ body{
 .trilha_sonora{
     width: 100%;
     background-color: pink ;
-    height: 200px;
+    height: 2000px;
 }
 
 .menu a img{

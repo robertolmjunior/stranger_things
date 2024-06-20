@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,li{
+  display: block;
+  text-decoration: none;
+
+}
+
+
+.trilha
+
+.musica1{
+    background-color: red;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    
+}
+ 
+audio{
+    width: 270px;
+}
+.audio1::-webkit-media-controls-panel{
+    background-color: darkgray;
+ }
+ .audio1::-webkit-media-controls-play-button{
+    background-color: white;
+    border-radius: 50%;
+ }
+ .audio1::-webkit-media-controls-current-time-display{
+    color: rgb(255, 255, 255);
+ }
+ .audio1::-webkit-media-controls-timeline{
+    border-radius: 40px;
+    background-color: white;
+ }
+ .audio1::-webkit-media-controls-volume-slider{
+   background-color: white;
+   border-radius: 50px;
+   padding-left: 10px;
+   padding-right: 10px;
+ }
+ .audio1::-webkit-media-controls-mute-button{
+    background-color: white;
+    border-radius: 50%;
+ }
+
+ .musicas{
+   display: grid;
+   grid-template-columns: 33% 33% 33%;
+ }
+
+ .i1{
+  padding-left: 35px;
+  padding-top: 10px;
+ }  
+
+ .m1{
+  padding-left: 10px;
+ }
+
+ .i2{
+  padding-left: 35px;
+  padding-top: 10px;
+ }  
+
+ .i3{
+  padding-left: 35px;
+  padding-top: 10px;
+ } 
+
+ .i5{
+  padding-left: 35px;
+  padding-top: 10px;
+ } 
+ .i6{
+  padding-left: 35px;
+  padding-top: 10px;
+ } 
+ .i8{
+  padding-left: 35px;
+  padding-top: 10px;
+ } 
+
+
+ .i4{
+  padding-left: 35px;
+  padding-top: 10px;
+ }  
+
+ .m4{
+  padding-left: 10px;
+ }
+ .i7{
+  padding-left: 35px;
+  padding-top: 10px;
+ }  
+
+ .m7{
+  padding-left: 10px;
+ }
